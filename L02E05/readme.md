@@ -15,19 +15,21 @@ DDL：1212
 - 至少10个比喻，比如“⼀⽯⼆鸟” 
 
 
-##一、10个翻译词，比如“民主”
-1.创可贴band-aid
-2.维他命vitamin
-3.凡士林vaselin
-4.阿斯匹林aspirin
-5.钙 calcium
-6.冰淇淋ice-cream
-7.尼古丁nicotin
-8.吉他guitar
-9.数码相机Digital Camera
-10.防潮箱DryBox
+## 10个翻译词，比如“民主”
 
-##二、至少10个翻译句式，比如“不能同意更多”
+- 1.创可贴band-aid
+- 2.维他命vitamin
+- 3.凡士林vaselin
+- 4.阿斯匹林aspirin
+- 5.钙 calcium
+- 6.冰淇淋ice-cream
+- 7.尼古丁nicotin
+- 8.吉他guitar
+- 9.数码相机Digital Camera
+- 10.防潮箱DryBox
+
+## 至少10个翻译句式，比如“不能同意更多”
+
 -1.Obey your thirst服从你的渴望
 -2.No point in punching things you can’t see.”打击那些你看不到的东西没有意义
 -3.There is no certainty, only opportunity 没有一定会怎样，只有可能会怎。
@@ -39,7 +41,7 @@ DDL：1212
 -9.The answer lie inside of you. 答案就在你身边
 -10.You will receive a body. 关爱自己，受益无限
 
-##三、至少10个比喻，比如“⼀⽯⼆鸟”
+## 至少10个比喻，比如“⼀⽯⼆鸟”
 
 -1.shappy as a cow 快乐得像只百灵鸟
 -2.like a cat on hot bricks热锅上的蚂蚁
