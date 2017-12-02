@@ -44,7 +44,7 @@
 
 * XXXX的说
 * XXXX君
-* 李狗嗨里的，以上。
+* 李狗嗨里的，**以上**。
 
 ![忍不住贴一张李狗嗨](https://github.com/aska2tian/Mylife/blob/master/thumb.jpg)
 
